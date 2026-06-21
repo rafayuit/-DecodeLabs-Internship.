@@ -1,0 +1,9 @@
+{
+  "name": "decodelabs-internship",
+  "version": "1.0.0",
+  "description": "DevOps Project 3 - CI/CD Pipeline",
+  "main": "app.js",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
